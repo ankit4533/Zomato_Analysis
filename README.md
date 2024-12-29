@@ -111,5 +111,4 @@ Your Name - https://github.com/ankit4533
 
 Project Link: [https://github.com/ankit4533/restaurant-analysis](https://github.com/yourusername/restaurant-analysis)
 
----
-*Note: Replace all placeholder usernames and links with your actual information before publishing.*
+ 
